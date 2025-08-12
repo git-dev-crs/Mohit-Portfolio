@@ -27,6 +27,7 @@ import {
     deloitte,
     shs,
     java,
+    zerodha,
 } from "../assets";
 
 export const navLinks = [
@@ -121,7 +122,7 @@ const technologies = [
 const experiences = [
     {
         title: "Deloitte Virtual Intern",
-        company_name: "Deloitte Technology Job Simulation",
+        company_name: "Deloitte-Technology Job Simulation via forage",
         icon: deloitte,
         iconBg: "#383E56",
         date: "June 2025 - July 2025",
@@ -138,8 +139,8 @@ const experiences = [
         iconBg: "#383E56",
         date: "November 2022 - June 2026",
         points: [
-            "Learned about computer fundamentals like DSA , OOPS Principle, SQL , Database Management.",
-            "Participated in various hackathons like SIH , college coding challenges.",
+            "Learned about computer fundamentals like DSA , OOPS Principle, SQL , Database Management, Operating System.",
+            "Participated in a coding Contests in a various different Platform.",
             "Learned MERN stack web development and developed various projects using the tech stack.",
         ],
     },
@@ -203,27 +204,27 @@ const projects = [
         image: interviewPrep,
         source_code_link: "https://interview-prep-front.vercel.app/",
     },
-    // {
-    //     name: "Zerodha-Stock Trading Platform",
-    //     description:
-    //         "Developed a fully functional Zerodha-inspired trading dashboard using React and Redux, enabling users to track real-time stock data, manage portfolios, and simulate buy/sell operations.",
-    //     tags: [
-    //         {
-    //             name: "react",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "mongodb",
-    //             color: "green-text-gradient",
-    //         },
-    //         {
-    //             name: "express",
-    //             color: "pink-text-gradient",
-    //         },
-    //     ],
-    //     image: studyNotion,
-    //     source_code_link: "",
-    // },
+    {
+        name: "Zerodha-Stock Trading Platform",
+        description:
+            "Developed a fully functional Zerodha-inspired trading dashboard using React and Redux, enabling users to track real-time stock data, manage portfolios, and simulate buy/sell operations.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "mongodb",
+                color: "green-text-gradient",
+            },
+            {
+                name: "express",
+                color: "pink-text-gradient",
+            },
+        ],
+        image:zerodha,
+        source_code_link: "https://github.com/git-dev-crs/Zerodha-Web",
+    },
     {
         name: "Zoom - Link up",
         description:

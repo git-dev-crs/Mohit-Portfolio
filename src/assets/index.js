@@ -30,7 +30,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
-import studyNotion from "./studyNotion.png";
+import zerodha from "./zerodha.png";
 // import crunchFitness from "./crunchFitness.png";
 
 import codeItUp from "./codeItUp.png";
@@ -78,7 +78,7 @@ export {
   tesla,
   carrent,
   zoom,
-  studyNotion,
+  zerodha,
   codeItUp,
   dsa,
 };
