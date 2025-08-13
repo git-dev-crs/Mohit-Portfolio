@@ -32,9 +32,13 @@ Other Tools & Libraries:
 *Framer Motion 
 *EmailJS / Formspree 
 
-📸 Preview
+📸 Preview:
 
-Replace screenshot.png with an actual screenshot of your site.
+🌟 Home Page                                           
+<img width="1920" height="1080" alt="portfolio-FrontSide" src="https://github.com/user-attachments/assets/71993d7b-d14d-4b64-959c-ee90633499fc" />
+
+🌟 Projects Page
+<img width="1920" height="1080" alt="Project-Sections " src="https://github.com/user-attachments/assets/c9d774b5-b49a-4475-84a6-a173a5ddac73" />
 
 📂 Project Structure
 .
@@ -54,23 +58,17 @@ Clone the repository:
 *git clone https://github.com/<your-username>/<your-repo-name>.git
 *cd <your-repo-name>
 
-
-Install dependencies:
-
+⚡Install dependencies:
 *npm install
 
-
-Run the development server:
-
+⚡Run the development server:
 *npm run dev
 
-
-Build for production:
-
+⚡Build for production:
 *npm run build
 
 
-🌐 Deployment
+🌐 Deployment\Live Preview
 This project can be deployed on:
 
 *Vercel
@@ -84,9 +82,9 @@ Example (Vercel):
 📬 Contact
 If you’d like to collaborate, discuss opportunities, or just say hello:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub
+Email: mohitjatav326@gmail.com
+LinkedIn: https://www.linkedin.com/in/mohit-jatav-6819a0260/
+GitHub: https://github.com/git-dev-crs
 
 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and share with attribution.
