@@ -7,61 +7,86 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Mohit-Portfolio
+🌟 Personal Portfolio Website
+A modern, fully responsive personal portfolio website showcasing my projects, skills, and experience.
+Built to highlight my work in web development and create a professional online presence.
 
-"A clean, responsive personal portfolio showcasing my skills and projects."
+🚀 Features
+*Responsive Design – Works seamlessly across devices (mobile, tablet, desktop).
+*Interactive UI – Smooth animations and transitions.
+*Projects Showcase – Detailed cards with links to live demos & GitHub repositories.
+*Skills Section – Categorized technical skills.
+*Contact Form – Easy way for recruiters to get in touch.
+*Fast & Optimized – Built with performance in mind.
 
----
+🛠 Tech Stack
+Frontend:
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Live Demo](#live-demo)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
+*React.js
+*Vite
+*Tailwind CSS / CSS Modules (depending on your implementation)
 
----
+Other Tools & Libraries:
 
-## About the Project
-A short description: “This portfolio is a digital showcase of my work as a web developer—built with HTML, CSS, JavaScript, and featuring responsive design.”
+*React Router
+*Framer Motion 
+*EmailJS / Formspree 
 
----
+📸 Preview
 
-## Features
-- Fully responsive layout across devices  
-- Dynamic project showcase or typing effects  
-- Smooth navigation and contact section
+Replace screenshot.png with an actual screenshot of your site.
 
----
-
-## Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **Libraries**: (e.g., Typed.js, Bootstrap, React, etc.)  
-
----
-
-## Live Demo
-[🔗 View the live site here](YOUR_DEPLOYED_URL)
-
----
-
-## Getting Started
-1. Clone the repo: `git clone https://github.com/your-username/Mohit-Portfolio.git`  
-2. Navigate in: `cd Mohit-Portfolio`  
-3. Open `index.html` in your browser to view it locally.
-
-*(Adjust if you’re using frameworks or build tools.)*
-
----
-
-## Project Structure
-```text
-Mohit-Portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   └── images/
+📂 Project Structure
+.
+├── public/             # Static assets
+├── src/                # Source code
+│   ├── components/     # Reusable UI components
+│   ├── pages/          # Page components (Home, About, Projects, Contact)
+│   ├── assets/         # Images, icons
+│   ├── App.jsx         # Root component
+│   └── main.jsx        # Entry point
+├── package.json
 └── README.md
+
+⚡ Installation & Setup:
+Clone the repository:
+
+*git clone https://github.com/<your-username>/<your-repo-name>.git
+*cd <your-repo-name>
+
+
+Install dependencies:
+
+*npm install
+
+
+Run the development server:
+
+*npm run dev
+
+
+Build for production:
+
+*npm run build
+
+
+🌐 Deployment
+This project can be deployed on:
+
+*Vercel
+*GitHub Pages
+
+Example (Vercel):
+
+*npm run build
+*vercel deploy
+
+📬 Contact
+If you’d like to collaborate, discuss opportunities, or just say hello:
+
+Email: your.email@example.com
+LinkedIn: Your LinkedIn Profile
+GitHub: Your GitHub
+
+📜 License
+This project is licensed under the MIT License – feel free to use, modify, and share with attribution.
